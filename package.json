@@ -70,7 +70,7 @@
 		"eslint-plugin-svelte": "^2.35.1",
 		"fast-xml-parser": "^4.3.4",
 		"happy-dom": "^13.4.1",
-		"houdini": "^1.2.37",
+		"houdini": "^1.2.55",
 		"houdini-svelte": "^1.2.37",
 		"husky": "^9.0.11",
 		"js-levenshtein": "^1.1.6",
